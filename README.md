@@ -1,3 +1,9 @@
+
+![image](https://user-images.githubusercontent.com/112996304/196562738-5f0a8fdf-808c-4314-aa17-aca1234313cd.png)
+
+
+
+
 GIVEN I am using a daily planner to create a schedule<br>
 WHEN I open the planner<br>
 THEN the current day is displayed at the top of the calendar<br>
