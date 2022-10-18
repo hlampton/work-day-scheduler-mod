@@ -19,3 +19,5 @@ WHEN I refresh the page<br>
 THEN the saved events persist<br>
 
 https://github.com/hlampton/work-day-scheduler-mod
+
+https://hlampton.github.io/work-day-scheduler-mod/
